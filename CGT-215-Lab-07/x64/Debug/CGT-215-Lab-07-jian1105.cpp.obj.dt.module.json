@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CGT-215-Lab-07\\x64\\Debug\\CGT-215-Lab-07-jian1105.obj",
+            "outputs": [
+                "CGT-215-Lab-07\\x64\\Debug\\CGT-215-Lab-07-jian1105.cpp.obj.dt.module.json",
+                "CGT-215-Lab-07\\x64\\Debug\\CGT-215-Lab-07-jian1105.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
